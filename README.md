@@ -1,3 +1,5 @@
 # unity-test-result-taro
 
-A description of this package.
+```sh
+$ swift run unity-test-result-taro path-to-xml
+```
